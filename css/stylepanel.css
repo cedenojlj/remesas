@@ -1,0 +1,12 @@
+
+body{
+    margin: 0;  
+    background-image: url("../img/pcb.jpg"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.alto{    
+    height: 100vh;    
+}
+
+

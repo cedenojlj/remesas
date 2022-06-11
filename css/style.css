@@ -1,0 +1,15 @@
+
+body{
+    margin: 0;  
+    background-image: url("../img/pcb.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.abs-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    
+}
+
